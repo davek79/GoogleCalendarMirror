@@ -3,7 +3,7 @@
 // Use "" if you want none.
 const CALENDARS_TO_MERGE = {
   "cal1tag": "cal1@gmail.com",
-  "cal2tag": "cal2@taigarobotics.com",
+  "cal2tag": "cal2@gmail.com",
 }
 
 // Number of days in the past and future to sync.
